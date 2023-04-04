@@ -13,7 +13,6 @@ public class ArrayEx2 {
 			sum += score[i];
 		}
 		System.out.println("평균 : " + sum/score.length);
-		
 	
 	}
 }
